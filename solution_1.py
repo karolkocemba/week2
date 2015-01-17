@@ -1,4 +1,4 @@
-
+#this script prompts the user for a number "n", then returns the nth number in the Fibonacci sequence
 def fib(nth):
 	last = 0
 	total = 1
